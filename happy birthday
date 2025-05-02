@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Happy Birthday, My Love!</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(#ffecd2, #fcb69f);
+      color: #333;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    header {
+      background-color: #ffb3b3;
+      padding: 20px;
+      font-size: 2em;
+    }
+    section {
+      padding: 30px 20px;
+    }
+    img {
+      max-width: 90%;
+      height: auto;
+      margin: 20px 0;
+      border-radius: 15px;
+    }
+    .timeline {
+      text-align: left;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+    .timeline h3 {
+      color: #d94f4f;
+    }
+    .love-note {
+      background: #fff0f0;
+      padding: 20px;
+      margin: 30px auto;
+      border-radius: 12px;
+      max-width: 600px;
+      font-style: italic;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <header>Happy Birthday, My Love 💖</header>
+
+  <section>
+    <h2>Our Journey So Far</h2>
+    <div class="timeline">
+      <h3>📍 How We Met</h3>
+      <p>It all started with a smile and a simple hello...</p>
+      <h3>🎉 Our First Date</h3>
+      <p>That magical evening I'll never forget.</p>
+      <h3>✈️ Our Trip Together</h3>
+      <p>Exploring the world with you was a dream come true.</p>
+    </div>
+  </section>
+
+  <section>
+    <img src="https://via.placeholder.com/600x400?text=Our+Photo" alt="Our memory">
+    <div class="love-note">
+      "Every moment with you is a gift. On your special day, I just want to say how deeply I love you. Happy Birthday! Here's to many more memories together."
+    </div>
+    <p><a href="https://forms.gle/yourpuzzlegame" target="_blank">🎁 Click here to start your birthday puzzle!</a></p>
+  </section>
+
+  <footer>
+    Made with love by [Your Name] ❤️
+  </footer>
+</body>
+</html>
+
+
